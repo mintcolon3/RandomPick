@@ -1,5 +1,5 @@
-!! All of these emojis are Miratsu's. All copyrights deserved. !!
-!! Miratsu Pixiv URL: https://www.pixiv.net/users/102593990 !!
+# !! All of these emojis are Miratsu's. All copyrights deserved. !!
+## !! Miratsu Pixiv URL: https://www.pixiv.net/users/102593990 !!
 
 mikuwow = <:mikuwow:1441065277579198525>
 mikushout = <:mikushout:1441064534659039353>
